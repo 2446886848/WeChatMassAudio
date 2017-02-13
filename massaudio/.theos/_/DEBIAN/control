@@ -1,0 +1,10 @@
+Package: com.yourcompany.massaudio
+Name: MassAudio
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: walen
+Author: walen
+Section: Tweaks
+Version: 0.0.1-18+debug
+Installed-Size: 140
